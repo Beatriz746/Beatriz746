@@ -52,9 +52,9 @@ Pretendo crescer profissionalmente na área de Tecnologia da Informação, espec
 
 📂 Portfólio e Currículo
 
-📄 "Meu Currículo" (#)
+📄 "Meu Currículo" 
 
-💼 "Meu Portfólio" (#)
+💼 "Meu Portfólio" 
 
 📫 Contacto
 
